@@ -6,6 +6,6 @@ This program manages adding and deleting subway stations and relevant connection
 1. Fork/Clone this project
 2. Run on any c# compiler preferably visual studio.
 
-## Program the Program:
+## Running the Program:
 1. Initially the subway map is prepopulated with some stations and connections.
 2. The terminal will now display the list of commands to perform a list of actions.
